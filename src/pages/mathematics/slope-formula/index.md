@@ -3,13 +3,15 @@ title: Slope Formula
 ---
 ## Slope Formula
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/mathematics/slope-formula/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+Slope is the average rate of change between 2 points. 
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
+The slope can be found as follows:
 
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+Δy/Δx or (y2-y1)/(x2-x1)
+
+In the linear equation, y=mx+b, the slope is represented by m. 
 
 #### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+<!-- https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-slope/a/slope-formula -->
 
 
